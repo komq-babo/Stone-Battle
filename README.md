@@ -5,7 +5,7 @@ Paper 1.20.1
 **💬명령어:**
 - /sb start:게임을 시작합니다
 - /sb stop: 게임을 종료합니다
-- /sb team [teamName] [<core><spawn>]
+- /sb team **[<teamName>] **[<core><spawn>]**
   core: 입력한 팀의 코어를 보고 있는 블록으로 설정합니다
   spawn: 입력한 팀의 스폰을 자신의 위치로 설정합니다.
 
